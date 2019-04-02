@@ -106,11 +106,11 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "Joeun"
   avatar           : "/assets/images/bio-photo.jpg" # path of avatar image, e.g. 
-  bio              : "I am an amazing person."
-  location         : "Somewhere"
-  email            :
+  bio              : "Programmer"
+  location         : "Seoul"
+  email            : "joeunpark@gmail.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
